@@ -5,7 +5,7 @@ import FactoryPattern.EnemyFactory;
 
 public class FactoryDemo
 {
-    public static void main(String[] args) {
+  /*  public static void main(String[] args) {
         EnemyFactory enemyFactory = new EnemyFactory();
         Enemy enemy1 = enemyFactory.getEnemy("CircleEnemy");
         Enemy enemy2 = enemyFactory.getEnemy("TriangleEnemy");
@@ -14,5 +14,5 @@ public class FactoryDemo
         enemy2.draw(1,1);
         enemy3.draw(100,13);
 
-    }
+    } */
 }

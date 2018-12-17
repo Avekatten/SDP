@@ -1,6 +1,8 @@
 package FactoryPattern;
 
+import java.awt.*;
+
 public interface Enemy
 {
-    void draw(int y, int x);
+    void draw(Graphics2D g2d);
 }

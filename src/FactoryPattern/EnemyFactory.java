@@ -9,7 +9,8 @@ public class EnemyFactory
     //use getShape method to get object of type shape
     public Enemy getEnemy(String enemyType)
     {
-        if(enemyType == null){
+        if(enemyType == null)
+        {
             return null;
         }
         if(enemyType.equalsIgnoreCase("SquareEnemy"))

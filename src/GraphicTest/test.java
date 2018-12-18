@@ -3,6 +3,9 @@ package GraphicTest;
 
 import FactoryPattern.Enemy;
 import FactoryPattern.EnemyFactory;
+import StrategyPattern.Frame;
+import StrategyPattern.Operations.OperationClear;
+import StrategyPattern.Operations.OperationFill;
 
 import java.awt.*;
 
@@ -10,20 +13,17 @@ import java.awt.*;
 public class test
 {
     public static void main(String[] args) {
-        for (int i = 0; i < 3; i++)
-        {
-            Frame frame = new Frame();
+        java.awt.Frame frame = new java.awt.Frame();
 
-            frame.add(new CustomPaintComponent());
+        frame.add(new CustomPaintComponent());
 
-            int frameWidth = 600;
+        int frameWidth = 600;
 
-            int frameHeight = 600;
+        int frameHeight = 600;
 
-            frame.setSize(frameWidth, frameHeight);
+        frame.setSize(frameWidth, frameHeight);
 
-            frame.setVisible(true);
-        }
+        frame.setVisible(true);
 
 
     }
@@ -49,6 +49,11 @@ public class test
             // FACTORY PATTERN ENDS HERE
 
             // STRATEGY PATTERN
+            Frame frame = new Frame(new OperationClear());
+            frame.executeStrategy(600, 600, g2d);
+
+            frame = new Frame(new OperationFill());
+            frame.executeStrategy(10, 5,g2d);
 
 
             //

@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d72b8fa0-3c08-4414-aeea-c035ac039dae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Operations/OperationAdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Operations/OperationMultiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Operations/OperationSubtract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/Strategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/StrategyDesignPatternDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FactoryPattern/EnemyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FactoryPattern/EnemyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/GraphicTest/test$CustomPaintComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/GraphicTest/test$CustomPaintComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/GraphicTest/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/GraphicTest/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/StrategyPattern/Context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/StrategyPattern/Operations/OperationAdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/StrategyPattern/Operations/OperationMultiply.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/StrategyPattern/Operations/OperationSubtract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/StrategyPattern/Strategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/StrategyPattern/Strategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/StrategyPattern/StrategyDesignPatternDemo.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GraphicTest/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GraphicTest/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StrategyPattern/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StrategyPattern/Frame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StrategyPattern/Operations/OperationAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StrategyPattern/Operations/OperationClear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StrategyPattern/Operations/OperationMultiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StrategyPattern/Operations/OperationFill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StrategyPattern/Operations/OperationSubtract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StrategyPattern/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StrategyPattern/Strategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StrategyPattern/StrategyDesignPatternDemo.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/" />
@@ -40,14 +47,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="24" />
-          <entry key="java" value="801" />
+          <entry key="dummy" value="46" />
+          <entry key="java" value="941" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="801" />
-          <entry key="PLAIN_TEXT" value="24" />
+          <entry key="JAVA" value="941" />
+          <entry key="PLAIN_TEXT" value="46" />
         </counts>
       </usages-collector>
     </session>
@@ -58,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/src/FactoryPattern/Enemy.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+              <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -87,11 +94,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/GraphicTest/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+            <state relative-caret-position="466">
+              <caret line="48" column="40" lean-forward="true" selection-start-line="48" selection-start-column="40" selection-end-line="48" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,18 +109,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Strategy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="102">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Operations/OperationAdd.java">
+        <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Operations/OperationClear.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="170">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#134#135#0" expanded="true" />
                 <element signature="e#168#169#0" expanded="true" />
               </folding>
@@ -122,53 +130,29 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Operations/OperationMultiply.java">
+        <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Operations/OperationFill.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+            <state relative-caret-position="136">
+              <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="62" />
               <folding>
-                <element signature="e#150#151#0" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Context.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Frame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="238">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding>
                 <element signature="e#117#118#0" expanded="true" />
                 <element signature="e#157#158#0" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#265#266#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StrategyPattern/StrategyDesignPatternDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Operations/OperationSubtract.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-              <folding>
-                <element signature="e#151#152#0" expanded="true" />
-                <element signature="e#185#186#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -198,19 +182,22 @@
         <option value="$PROJECT_DIR$/src/FactoryPattern/Enemies/SquareEnemy.java" />
         <option value="$PROJECT_DIR$/src/FlyweightPattern/Background.java" />
         <option value="$PROJECT_DIR$/src/FactoryPattern/EnemyFactory.java" />
-        <option value="$PROJECT_DIR$/src/StrategyPattern/Strategy.java" />
         <option value="$PROJECT_DIR$/src/StrategyPattern/OperationAdd.java" />
         <option value="$PROJECT_DIR$/src/StrategyPattern/Context.java" />
-        <option value="$PROJECT_DIR$/src/StrategyPattern/Operations/OperationSubtract.java" />
         <option value="$PROJECT_DIR$/src/StrategyPattern/Operations/OperationMultiply.java" />
         <option value="$PROJECT_DIR$/src/StrategyPattern/StrategyDesignPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/StrategyPattern/Operations/OperationSubtract.java" />
+        <option value="$PROJECT_DIR$/src/StrategyPattern/Strategy.java" />
+        <option value="$PROJECT_DIR$/src/StrategyPattern/Operations/OperationFill.java" />
+        <option value="$PROJECT_DIR$/src/StrategyPattern/Frame.java" />
+        <option value="$PROJECT_DIR$/src/StrategyPattern/Operations/OperationClear.java" />
         <option value="$PROJECT_DIR$/src/GraphicTest/test.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="551" />
-    <option name="y" value="153" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="133" />
+    <option name="y" value="-12" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -236,20 +223,20 @@
               <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="GraphicTest" type="462c0819:PsiDirectoryNode" />
+              <item name="FactoryPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="FactoryPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="Enemies" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="StrategyPattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="StrategyPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="Operations" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -260,7 +247,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545071889101" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545074442012" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
   </component>
@@ -328,14 +315,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="551" y="153" width="1400" height="1000" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" weight="0.3286334" />
@@ -344,7 +331,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.329718" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3290993" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30911064" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -409,10 +396,83 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/FlyweightPattern/Background.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Operations/OperationSubtract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Operations/OperationFill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Strategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/StrategyDesignPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/FactoryPattern/Enemy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Operations/OperationClear.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Frame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -426,82 +486,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FlyweightPattern/Background.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Operations/OperationMultiply.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-          <folding>
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Operations/OperationSubtract.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding>
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GraphicTest/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        <state relative-caret-position="466">
+          <caret line="48" column="40" lean-forward="true" selection-start-line="48" selection-start-column="40" selection-end-line="48" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Operations/OperationAdd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding>
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Strategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/StrategyDesignPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Context.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
           </folding>
         </state>
       </provider>

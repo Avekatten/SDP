@@ -1,4 +1,4 @@
-package GraphicTest;
+package FactoryPattern;
 
 
 import FactoryPattern.Enemy;
@@ -10,7 +10,7 @@ import StrategyPattern.Operations.OperationFill;
 import java.awt.*;
 
 
-public class test
+public class FactoryDemo
 {
     public static void main(String[] args) {
         java.awt.Frame frame = new java.awt.Frame();
@@ -47,19 +47,6 @@ public class test
             enemy2.draw(g2d);
             enemy3.draw(g2d);
             // FACTORY PATTERN ENDS HERE
-
-            // STRATEGY PATTERN
-            Frame frame = new Frame(new OperationClear());
-            frame.executeStrategy(600, 600, g2d);
-
-            frame = new Frame(new OperationFill());
-            frame.executeStrategy(10, 5,g2d);
-
-
-            //
-
-
-
 
 
         }

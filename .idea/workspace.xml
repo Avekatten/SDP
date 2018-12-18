@@ -1,26 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d72b8fa0-3c08-4414-aeea-c035ac039dae" name="Default Changelist" comment="">
+    <list default="true" id="45b781cc-7d46-4fce-880a-97e4ae2f2034" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPatterns/Enemy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPatterns/FlyWeight/Background.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPatterns/FlyWeight/BackgroundFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPatterns/FlyWeight/BackgroundShape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPatterns/FlyWeight/FlyWeightDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/BasicFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/DecoratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Frame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/FrameDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/LuxuryFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/RedFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlyWeight/Background.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlyWeight/BackgroundFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlyWeight/BackgroundShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlyWeight/FlyWeightDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern/StrategyPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/GraphicTest/test$CustomPaintComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/GraphicTest/test$CustomPaintComponent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/GraphicTest/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/GraphicTest/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/StrategyPattern/Context.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/StrategyPattern/Operations/OperationAdd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/StrategyPattern/Operations/OperationMultiply.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/StrategyPattern/Operations/OperationSubtract.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/StrategyPattern/Strategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/StrategyPattern/Strategy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/StrategyPattern/StrategyDesignPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GraphicTest/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GraphicTest/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StrategyPattern/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StrategyPattern/Frame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StrategyPattern/Operations/OperationAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StrategyPattern/Operations/OperationClear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StrategyPattern/Operations/OperationMultiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StrategyPattern/Operations/OperationFill.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StrategyPattern/Operations/OperationSubtract.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StrategyPattern/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StrategyPattern/Strategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StrategyPattern/StrategyDesignPatternDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/FactoryPattern/Enemies/FactoryDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/GraphicTest/test$CustomPaintComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/GraphicTest/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/StrategyPattern/Operations/OperationFill.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/StrategyPattern/Operations/OperationFill.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryPattern/Enemies/FactoryDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GraphicTest/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FactoryPattern/FactoryDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StrategyPattern/Operations/OperationFill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StrategyPattern/Operations/OperationFill.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,30 +40,30 @@
     <session id="313981642">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="14" />
+          <entry key="java" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="14" />
+          <entry key="JAVA" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="46" />
-          <entry key="java" value="941" />
+          <entry key="dummy" value="86" />
+          <entry key="java" value="303" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="941" />
-          <entry key="PLAIN_TEXT" value="46" />
+          <entry key="JAVA" value="303" />
+          <entry key="PLAIN_TEXT" value="86" />
         </counts>
       </usages-collector>
     </session>
@@ -62,10 +71,82 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FactoryPattern/Enemy.java">
+        <entry file="file://$PROJECT_DIR$/src/StrategyPattern/StrategyPattern.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="28" />
+            <state relative-caret-position="366">
+              <caret line="50" column="13" lean-forward="true" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DecoratorPattern/TV.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DecoratorPattern/BasicTV.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding>
+                <element signature="e#108#109#0" expanded="true" />
+                <element signature="e#154#155#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DecoratorPattern/DecoratorPatternTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DecoratorPattern/TVDecorator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <folding>
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DecoratorPattern/LEDTV.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+              <folding>
+                <element signature="e#102#103#0" expanded="true" />
+                <element signature="e#126#127#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DecoratorPattern/HDTV.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <folding>
+                <element signature="e#102#103#0" expanded="true" />
+                <element signature="e#126#127#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,87 +154,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FactoryPattern/EnemyFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FactoryPattern/Enemies/FactoryDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/FactoryPattern/FactoryDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/GraphicTest/test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="466">
-              <caret line="48" column="40" lean-forward="true" selection-start-line="48" selection-start-column="40" selection-end-line="48" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Strategy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Operations/OperationClear.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#134#135#0" expanded="true" />
-                <element signature="e#168#169#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Operations/OperationFill.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="62" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#218#219#0" expanded="true" />
-                <element signature="e#236#237#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Frame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-              <folding>
-                <element signature="e#117#118#0" expanded="true" />
-                <element signature="e#157#158#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-                <element signature="e#298#299#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="423">
+              <caret line="32" column="39" lean-forward="true" selection-end-line="56" />
             </state>
           </provider>
         </entry>
@@ -174,39 +185,41 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Enemy.java" />
-        <option value="$PROJECT_DIR$/src/FactoryPattern/Enemies/FactoryDemo.java" />
-        <option value="$PROJECT_DIR$/src/FactoryPattern/Enemies/CircleEnemy.java" />
-        <option value="$PROJECT_DIR$/src/FactoryPattern/Enemy.java" />
-        <option value="$PROJECT_DIR$/src/FactoryPattern/Enemies/TriangleEnemy.java" />
-        <option value="$PROJECT_DIR$/src/FactoryPattern/Enemies/SquareEnemy.java" />
-        <option value="$PROJECT_DIR$/src/FlyweightPattern/Background.java" />
-        <option value="$PROJECT_DIR$/src/FactoryPattern/EnemyFactory.java" />
-        <option value="$PROJECT_DIR$/src/StrategyPattern/OperationAdd.java" />
-        <option value="$PROJECT_DIR$/src/StrategyPattern/Context.java" />
-        <option value="$PROJECT_DIR$/src/StrategyPattern/Operations/OperationMultiply.java" />
-        <option value="$PROJECT_DIR$/src/StrategyPattern/StrategyDesignPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/StrategyPattern/Operations/OperationSubtract.java" />
-        <option value="$PROJECT_DIR$/src/StrategyPattern/Strategy.java" />
+        <option value="$PROJECT_DIR$/src/StrategyPattern/FactoryDemo.java" />
         <option value="$PROJECT_DIR$/src/StrategyPattern/Operations/OperationFill.java" />
-        <option value="$PROJECT_DIR$/src/StrategyPattern/Frame.java" />
-        <option value="$PROJECT_DIR$/src/StrategyPattern/Operations/OperationClear.java" />
-        <option value="$PROJECT_DIR$/src/GraphicTest/test.java" />
+        <option value="$PROJECT_DIR$/src/StrategyPattern/StrategyPattern.java" />
+        <option value="$PROJECT_DIR$/src/DecoratorPattern/Car.java" />
+        <option value="$PROJECT_DIR$/src/DecoratorPattern/BasicCar.java" />
+        <option value="$PROJECT_DIR$/src/DecoratorPattern/CarDecorator.java" />
+        <option value="$PROJECT_DIR$/src/DecoratorPattern/SportsCar.java" />
+        <option value="$PROJECT_DIR$/src/DecoratorPattern/LuxuryCar.java" />
+        <option value="$PROJECT_DIR$/src/DecoratorPattern/Frame.java" />
+        <option value="$PROJECT_DIR$/src/DecoratorPattern/RedFrame.java" />
+        <option value="$PROJECT_DIR$/src/DecoratorPattern/BasicFrame.java" />
+        <option value="$PROJECT_DIR$/src/DecoratorPattern/BlueFrame.java" />
+        <option value="$PROJECT_DIR$/src/DecoratorPattern/DecoratorTest.java" />
+        <option value="$PROJECT_DIR$/src/DecoratorPattern/FrameDecorator.java" />
+        <option value="$PROJECT_DIR$/src/DecoratorPattern/TVDecorator.java" />
+        <option value="$PROJECT_DIR$/src/DecoratorPattern/TV.java" />
+        <option value="$PROJECT_DIR$/src/DecoratorPattern/LEDTV.java" />
+        <option value="$PROJECT_DIR$/src/DecoratorPattern/HDTV.java" />
+        <option value="$PROJECT_DIR$/src/DecoratorPattern/BasicTV.java" />
+        <option value="$PROJECT_DIR$/src/DecoratorPattern/DecoratorPatternTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="133" />
-    <option name="y" value="-12" />
+    <option name="x" value="260" />
+    <option name="y" value="20" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -223,33 +236,28 @@
               <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="FactoryPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="DecoratorPattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="FactoryPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="Enemies" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="StrategyPattern" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545074442012" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545135798666" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="StrategyPattern" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -263,13 +271,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="FactoryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FactoryPattern.Enemies.FactoryDemo" />
+  <component name="RunManager" selected="Application.DecoratorPatternTest">
+    <configuration name="DecoratorPatternTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecoratorPattern.DecoratorPatternTest" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FactoryPattern.Enemies.*" />
+          <option name="PATTERN" value="DecoratorPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,12 +285,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GraphicTest.test" />
+    <configuration name="StrategyPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StrategyPattern.StrategyPattern" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GraphicTest.*" />
+          <option name="PATTERN" value="StrategyPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,13 +299,13 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FactoryDemo" />
-      <item itemvalue="Application.test" />
+      <item itemvalue="Application.StrategyPattern" />
+      <item itemvalue="Application.DecoratorPatternTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.FactoryDemo" />
+        <item itemvalue="Application.DecoratorPatternTest" />
+        <item itemvalue="Application.StrategyPattern" />
       </list>
     </recent_temporary>
   </component>
@@ -306,16 +314,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d72b8fa0-3c08-4414-aeea-c035ac039dae" name="Default Changelist" comment="" />
-      <created>1545065264136</created>
+      <changelist id="45b781cc-7d46-4fce-880a-97e4ae2f2034" name="Default Changelist" comment="" />
+      <created>1545131938364</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1545065264136</updated>
+      <updated>1545131938364</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -324,14 +333,14 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3286334" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Log4jMonitor" />
-      <window_info anchor="bottom" id="Messages" weight="0.329718" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30911064" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -350,149 +359,182 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/FactoryPattern/Enemies/CircleEnemy.java">
+    <entry file="file://$PROJECT_DIR$/src/FactoryPattern/Enemies/FactoryDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FactoryPattern/Enemies/SquareEnemy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FactoryPattern/Enemies/TriangleEnemy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FactoryPattern/Enemies/FactoryDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FlyweightPattern/Background.java">
+    <entry file="file://$PROJECT_DIR$/src/FactoryPattern/Enemies/SquareEnemy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Operations/OperationSubtract.java">
+    <entry file="file://$PROJECT_DIR$/src/FactoryPattern/Enemies/CircleEnemy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactoryPattern/Enemy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Operations/OperationClear.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Operations/OperationFill.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-          </folding>
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Strategy.java">
+    <entry file="file://$PROJECT_DIR$/src/FlyWeight/FlyWeightDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/StrategyDesignPatternDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/FlyWeight/BackgroundShape.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FactoryPattern/Enemy.java">
+    <entry file="file://$PROJECT_DIR$/src/FlyWeight/BackgroundFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="28" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Operations/OperationClear.java">
+    <entry file="file://$PROJECT_DIR$/src/FlyWeight/Background.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Frame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="119">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Strategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/StrategyPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="50" column="13" lean-forward="true" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FactoryPattern/EnemyFactory.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactoryPattern/FactoryDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="32" column="39" lean-forward="true" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DecoratorPattern/DecoratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DecoratorPattern/TVDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GraphicTest/test.java">
+    <entry file="file://$PROJECT_DIR$/src/DecoratorPattern/TV.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="48" column="40" lean-forward="true" selection-start-line="48" selection-start-column="40" selection-end-line="48" selection-end-column="40" />
+        <state relative-caret-position="85">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DecoratorPattern/LEDTV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DecoratorPattern/HDTV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DecoratorPattern/BasicTV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DecoratorPattern/DecoratorPatternTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
         </state>
       </provider>
     </entry>
